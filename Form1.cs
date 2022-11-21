@@ -29,7 +29,7 @@ namespace QuanLyNhaHang
             }
 
 
-            List<List<string>> reader1 = XuLyNghiepVu.QuanLyKho.getAllNguyenLieu(ngungSuDung: true, conSuDung: false); ;
+            List<List<string>> reader1 = XuLyNghiepVu.QuanLyKho.getAllNguyenLieu(ngungSuDung: true, conSuDung: false); 
         }
     }
 }
