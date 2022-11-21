@@ -31,5 +31,10 @@ namespace QuanLyNhaHang
 
             List<List<string>> reader1 = XuLyNghiepVu.QuanLyKho.getAllNguyenLieu(ngungSuDung: true, conSuDung: false); ;
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
