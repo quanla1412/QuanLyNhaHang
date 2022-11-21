@@ -1,0 +1,11 @@
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.SuggestedBindingRedirects.cache
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Form1.resources
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Anh_Quan\Tai_lieu\C_Sharp\Do_an\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
